@@ -1,3 +1,2 @@
-nombre = "jose"
-apellido = "bovio"
-print(f"Mi nombre es {nombre} {apellido}")
+apellido = "Bovio"
+print(f"Mi apellido es {apellido}")
