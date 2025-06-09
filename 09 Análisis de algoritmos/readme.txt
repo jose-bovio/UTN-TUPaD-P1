@@ -14,7 +14,7 @@ En base a esto haremos un algoritmo para cada caso, que busque números pares en
 El objetivo será ver si realmente si usamos un algoritmo u otro, que a simple vista son caracteres, se termina traduciendo en un consumo real de recursos, produciendo grandes consumos de procesos,
 energía eléctrica, ancho de banda, etc. 
 
-###LINK GITHUB: https://github.com/Kiedis07/UTN-TUPaD-P1/tree/136ad38b0b198925356abfa72292a4418811ecf0/09%20An%C3%A1lisis%20de%20algoritmos
+###LINK GITHUB: https://github.com/jose-bovio/UTN-TUPaD-P1/tree/main/09%20An%C3%A1lisis%20de%20algoritmos
 GitHub contiene pdf principal, pdf anexo big o, anexo powerpoint y los algoritmos usados:
 
 ALGORITMO BASE: Es el proyecto, tenemos un algoritmo con if (mediante divisiones) y otro algoritmo con range  (mediante suma), y su tiempo de ejecución. Esta listo para correr.
